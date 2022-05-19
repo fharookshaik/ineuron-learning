@@ -39,3 +39,13 @@ Common datatypes:
 - Boolean(true, false)
 - undefined
 - numbers(34)
+
+**Operators**
+
+- +,-,*,/ (Arithmetic)
+- \>,\<,\>=,\<= - Returns true/false
+
+
+## References
+
+- MDN Docs - https://developer.mozilla.org/en-US/docs/Learn/JavaScript
